@@ -37,5 +37,8 @@ Open the notebook
 
 5.1 open ./MyPresentation.slides.html
 
+<<<<<<< HEAD
 :wq
 
+=======
+>>>>>>> 47d701edf7fca0f2a772af746499ede6b32fabea
